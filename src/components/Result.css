@@ -1,0 +1,19 @@
+.result {
+    margin: 20px;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #b1b1b1;
+  }
+  
+  .result span {
+    color: #25352e;
+  }
+  
+  .empty-message {
+    color: #ff3131;
+    font-size: 18px;
+  }
+  
